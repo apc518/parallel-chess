@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyN2VMsn5dd8eTHbG+NojiNW7jcI8keOrnRSBUvX4V3AVP4kcVR/xQ1cyohw6oJylYVc7QkjpAHcvA+OC4n8Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eric\\_School\\2020-21\\CS 475\\final_project\\MultiChess\\MultiChessConsole\\MultiChessConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.1\\microsoft.extensions.objectpool.5.0.1.nupkg.sha512",
+    "C:\\Users\\Eric\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Eric\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

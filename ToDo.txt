@@ -1,0 +1,2 @@
+﻿- iterative deepening
+- incorporate move generation in the transposition table
