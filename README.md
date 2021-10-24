@@ -1,5 +1,7 @@
 ﻿# Chess Engine
 
+`ParallelMiniMaxPlayer.cs` contains the class of interest in this project.
+
 ### My contributions:
 - Parallel processing
 - Negamax
