@@ -1,17 +1,17 @@
 ﻿# Chess Engine
 
-I have provided:
-Parallel processing
-Negamax
-Alpha-beta pruning
-Transposition Table
-An evaluation function (a very incomplete one)
+### My contributions:
+- Parallel processing
+- Negamax
+- Alpha-beta pruning
+- Transposition Table
+- An evaluation function (a very incomplete one)
 
-Rudz/ChessLib has provided:
-move generation
-board representation (bitboards)
+### [rudzen/ChessLib](https://github.com/rudzen/ChessLib)'s contributions:
+- move generation
+- board representation (bitboards)
 
-## TODO
+### TODO
 - Make the eval function at least somewhat decent
 - Fix castling being detected as illegal move
 
